@@ -77,10 +77,3 @@ It is intended as a portfolio ready example of HTML and CSS fundamentals.
 ## Status
 
 Stable version. Additional pages and visual refinements are planned.
-
----
-
-## Notes
-
-This repository is documented in English by default.  
-A Portuguese explanation can be provided if needed.
