@@ -23,6 +23,7 @@ The goal of the project is to practice semantic HTML, layout organization, and c
 - Hover effects with subtle glow
 - Clear visual hierarchy
 - Google Fonts integration
+- Responsive layout for mobile and desktop screens
 
 ---
 
